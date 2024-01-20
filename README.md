@@ -1,3 +1,3 @@
 # Transparent GUI
 
-## a fork of [Dark Mode](https://legacy.curseforge.com/minecraft/texture-packs/dark-everywhere)
+a fork of [Dark Everywhere](https://legacy.curseforge.com/minecraft/texture-packs/dark-everywhere)
