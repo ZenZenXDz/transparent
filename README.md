@@ -1,1 +1,1 @@
-# transparent
+# Transparent GUI
